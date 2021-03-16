@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int mian()
+int main()
 {
     printf("hello github!");
     return 0;
